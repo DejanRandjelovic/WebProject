@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder1HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder2HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder3HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Slike/IFHeder4HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder5HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder6HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Slike/IFHeder7HelloKitty.png</ImageUrl>
+    <AlternateText>Hello Kitty Delta City</AlternateText>
+    <Keyword>Computers</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+  
+</Advertisements>
